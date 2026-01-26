@@ -1,0 +1,26 @@
+# module login
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Company'                     => '',
+  'Configuration file missing!' => '',
+  'Continue'                    => '',
+  'Dataset is newer than version!' => '',
+  'Dataset locked!'             => '',
+  'Incorrect Dataset version!'  => '',
+  'Incorrect Password!'         => '',
+  'Incorrect Username!'         => '',
+  'Invalid TAN'                 => '',
+  'Login'                       => '',
+  'Maximum tries exceeded!'     => '',
+  'Name'                        => '',
+  'No email address for'        => '',
+  'Password'                    => '',
+  'TAN'                         => '',
+  'Upgrading to Version'        => '',
+  'Version'                     => '',
+  'You did not enter a name!'   => '',
+  'admin does not exist!'       => '',
+};
+
+1;
