@@ -1,0 +1,32 @@
+# module js
+# add the missing texts and run locales.pl to rebuild
+
+$missing = {
+  'Accepted format is'          => '',
+  'Allowed range for selected month is' => '',
+  'Allowed range is'            => '',
+  'April'                       => '',
+  'August'                      => '',
+  'December'                    => '',
+  'February'                    => '',
+  'Fr'                          => '',
+  'Invalid date:'               => '',
+  'Invalid day:'                => '',
+  'Invalid month:'              => '',
+  'January'                     => '',
+  'July'                        => '',
+  'June'                        => '',
+  'March'                       => '',
+  'May'                         => '',
+  'Mo'                          => '',
+  'November'                    => '',
+  'October'                     => '',
+  'Sa'                          => '',
+  'September'                   => '',
+  'Su'                          => '',
+  'Th'                          => '',
+  'Tu'                          => '',
+  'We'                          => '',
+};
+
+1;
